@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently studying in my first year of Bangkok University 
 - 🌱 My major was Computer Science 
-- 📫 How to reach me : p.wongsingha69@gmail.com 
+- 📫 How to reach me : tipparida.ruji@bumail.net

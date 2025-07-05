@@ -4,6 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blymanor&show_icons=true&theme=prussian)
 
-- 🔭 I’m currently studying in my first year of Bangkok University 
+- 🔭 I’m currently studying in my 4th year of Bangkok University 
 - 🌱 My major was Computer Science 
 - 📫 How to reach me : tipparida.ruji@bumail.net

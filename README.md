@@ -50,7 +50,6 @@
 
 ## 📬 Contact Me
 
-**Email:** [tipparida.ruji@bumail.net](mailto:tipparida.ruji@bumail.net)
-**GitHub:** @blymanor
+**Email:** [tipparida.ruji@gmail.com](mailto:tipparida.ruji@gmail.com)
 
 ---

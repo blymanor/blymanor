@@ -39,10 +39,8 @@
 
 ---
 
-## 🌈 Cute Badges That Represent Me
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Coffee-Lover-brown?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tea-Lover-brown?style=flat-square"/>
   <img src="https://img.shields.io/badge/Design-Minimalist-pink?style=flat-square"/>
   <img src="https://img.shields.io/badge/Dog-Person-ffe8ab?style=flat-square"/>
   <img src="https://img.shields.io/badge/Coding%20Style-Clean-blue?style=flat-square"/>

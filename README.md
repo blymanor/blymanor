@@ -1,5 +1,3 @@
-# Hi there, I’m Tipparida!
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=6E8EF6&center=true&vCenter=true&width=500&lines=Hola!+Welcome+to+my+GitHub.;I'm+Tipparida+Rujisunkuntorn.;Nice+to+meet+you+%F0%9F%8C%9F" />
 </p>

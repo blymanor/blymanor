@@ -10,7 +10,6 @@
 * 💻 Major: **Computer Science**
 * 💡 Passionate about **front-end**, **UI/UX**
 * 🍵 Loves tea, minimal design, and clean code
-* 🐶 Fun fact: I’m happiest when I’m coding and petting my dog at the same time
 
 ---
 

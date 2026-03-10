@@ -11,7 +11,7 @@
 * 💡 Passionate about **front-end**, **UI/UX**
 * 🍵 Loves tea, minimal design, and clean code
 * 🌐  Portfolio: blymanor.github.io/portfolio
-
+  
 ---
 
 ## Tech Stack
@@ -30,27 +30,33 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=blymanor&show_icons=true&theme=tokyonight&hide_title=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=blymanor&theme=tokyonight"/>
-</div>
-
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=PluckyPrecious&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluckyPrecious&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+  
 ---
 
+# ✦ &nbsp;Let's Connect
 
-## Contact Me
 <div align="center">
+
 <a href="mailto:tipparida.ruji@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tipparida.ruji%40gmail.com-f8f9ff?style=flat-square&logo=gmail&logoColor=a0b4f0&labelColor=f0f4ff&color=a0b4f0"/>
+  <img src="https://img.shields.io/badge/Gmail-tipparida.ruji%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" />
 </a>
 &nbsp;
-<a href="https://blymanor.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-blymanor.github.io-f8f9ff?style=flat-square&logo=Safari&logoColor=a0b4f0&labelColor=f0f4ff&color=a0b4f0"/>
+<a href="http://linkedin.com/in/tipparida-rujisunkuntorn-038103384">
+  <img src="https://img.shields.io/badge/LinkedIn-tipparida-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
+&nbsp;
 </div>
+
 <br/>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C9D6FF&height=80&section=footer" />
 </div>
 
 ---
+

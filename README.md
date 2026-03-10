@@ -37,17 +37,20 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tea-Lover-brown?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Design-Minimalist-pink?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Dog-Person-ffe8ab?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Coding%20Style-Clean-blue?style=flat-square"/>
-</p>
 
----
-
-## 📬 Contact Me
-
-**Email:** [tipparida.ruji@gmail.com](mailto:tipparida.ruji@gmail.com)
+## Contact Me
+<div align="center">
+<a href="mailto:tipparida.ruji@gmail.com">
+  <img src="https://img.shields.io/badge/Email-tipparida.ruji%40gmail.com-f8f9ff?style=flat-square&logo=gmail&logoColor=a0b4f0&labelColor=f0f4ff&color=a0b4f0"/>
+</a>
+&nbsp;
+<a href="https://blymanor.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-blymanor.github.io-f8f9ff?style=flat-square&logo=Safari&logoColor=a0b4f0&labelColor=f0f4ff&color=a0b4f0"/>
+</a>
+</div>
+<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C9D6FF&height=80&section=footer" />
+</div>
 
 ---

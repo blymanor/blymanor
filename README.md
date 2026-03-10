@@ -10,6 +10,7 @@
 * 💻 Major: **Computer Science**
 * 💡 Passionate about **front-end**, **UI/UX**
 * 🍵 Loves tea, minimal design, and clean code
+* 🌐  Portfolio: blymanor.github.io/portfolio
 
 ---
 

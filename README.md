@@ -38,25 +38,3 @@
   
 ---
 
-# ✦ &nbsp;Let's Connect
-
-<div align="center">
-
-<a href="mailto:tipparida.ruji@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-tipparida.ruji%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" />
-</a>
-&nbsp;
-<a href="http://linkedin.com/in/tipparida-rujisunkuntorn-038103384">
-  <img src="https://img.shields.io/badge/LinkedIn-tipparida-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-</a>
-&nbsp;
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9D6FF&height=80&section=footer" />
-</div>
-
----
-
